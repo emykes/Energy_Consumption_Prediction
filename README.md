@@ -8,9 +8,7 @@
 ## Repo Structure 
 
 ``` 
-├── Notebooks                               <- folder containing notebooks
-├── .gitignore                              <- file specifying files/directories to ignore
-├── Presentation.pdf                        <- presentation slides
-├── Project_Main_Notebook.ipynb             <- main notebook of the project
-└── README.md                               <- README file
+├── .gitignore                 <- file specifying files/directories to ignore
+├── README.md                  <- README file
+└── notebook.ipynb             <- main notebook of the project
 ``` 
